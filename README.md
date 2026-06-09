@@ -2,7 +2,7 @@
 
 A single-file, zero-dependency tool for modeling pipeline revenue across five attribution frameworks. Built for B2B demand gen marketers who want to understand how channel credit shifts depending on which model their organization uses.
 
-**[Live demo →](https://jessicacarin.github.io/b2b-attribution-calculator/)**
+https://jessicacarin.github.io/b2b-attribution-calculator/
 
 ---
 
